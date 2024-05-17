@@ -1,0 +1,19 @@
+{
+  "name": "holbertonschool-javascript-coding",
+  "version": "1.0.0",
+  "description": "not empty",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LNCarrion/holbertonschool-javascript-coding.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LNCarrion/holbertonschool-javascript-coding/issues"
+  },
+  "homepage": "https://github.com/LNCarrion/holbertonschool-javascript-coding#readme"
+}
